@@ -13,7 +13,7 @@ A simple and interactive Tic Tac Toe game built using HTML, CSS, and JavaScript.
 - Responsive Design: Optimized for both desktop and mobile devices.
 
 ## Demo
-You can play the live version of the Tic Tac Toe game [here](https://github.com/DevDorcas/PRODIGY_WD_03.git)
+You can play the live version of the Tic Tac Toe game [here](C:\Users\JOSHMAN\Desktop\PRODIGY_WD_03\Tic.html)
 
 ## How to Play
 1. The game is played between two players: The Computer and Player.
