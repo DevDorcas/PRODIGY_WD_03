@@ -11,5 +11,8 @@ A simple and interactive Tic Tac Toe game built using HTML, CSS, and JavaScript.
 - Restart Option: Easily restart the game at any time.
 - Record Scores: Check for the scores on the scoreboard.
 - Responsive Design: Optimized for both desktop and mobile devices.
+
+## Demo
+You can play the live version of the Tic Tac Toe game [here](
   
 
